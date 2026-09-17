@@ -1,0 +1,6 @@
+{
+  "name": "SmartImmo Africa",
+  "description": "Plateforme immobilière intelligente pour les Smart Cities en Afrique - Recherche, analyse de terrain, sécurisation de documents fonciers, conception et gestion de biens à Douala et Yaoundé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
